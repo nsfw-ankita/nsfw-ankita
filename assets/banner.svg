@@ -1,0 +1,29 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-labelledby="title desc">
+  <title id="title">nsfw-ankita — aspiring web developer</title>
+  <desc id="desc">A black terminal inspired banner with red accents and the focus areas Java, DSA, and internships.</desc>
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8b0000" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#351010" stroke-width="1" opacity=".42"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="400" fill="#080808"/>
+  <rect width="1200" height="400" fill="url(#grid)"/>
+  <rect width="1200" height="400" fill="url(#glow)"/>
+  <path d="M0 330H1200" stroke="#7f1d1d" stroke-width="1" opacity=".5"/>
+  <path d="M35 35h54M35 35v54M1165 365h-54M1165 365v-54" fill="none" stroke="#dc2626" stroke-width="2"/>
+  <rect x="31" y="31" width="7" height="7" fill="#dc2626"/>
+  <text x="64" y="91" fill="#f87171" font-family="Courier New, Courier, monospace" font-size="15" font-weight="bold" letter-spacing="5">PROFILE // DEVELOPER IN PROGRESS</text>
+  <text x="60" y="190" fill="#f5f5f5" font-family="Courier New, Courier, monospace" font-size="66" font-weight="bold" letter-spacing="1">NSFW-ANKITA</text>
+  <path d="M64 215H550" stroke="#dc2626" stroke-width="3"/>
+  <circle cx="64" cy="255" r="4" fill="#ef4444"/>
+  <text x="82" y="261" fill="#dedede" font-family="Courier New, Courier, monospace" font-size="20" letter-spacing="1">ASPIRING WEB DEVELOPER</text>
+  <circle cx="64" cy="299" r="4" fill="#ef4444"/>
+  <text x="82" y="305" fill="#aaa" font-family="Courier New, Courier, monospace" font-size="16" letter-spacing="1">LEARNING JAVA + DSA</text>
+  <text x="64" y="372" fill="#777" font-family="Courier New, Courier, monospace" font-size="13" letter-spacing="2">OPEN TO INTERNSHIPS</text>
+  <path d="M64 380H255" stroke="#7f1d1d" stroke-width="1"/>
+  <rect x="1" y="1" width="1198" height="398" fill="none" stroke="#262626" stroke-width="2"/>
+</svg>

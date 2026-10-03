@@ -1,31 +1,42 @@
-﻿# nsfw-ankita
+﻿<p align="center">
+  <img src="assets/banner.svg" alt="nsfw-ankita — aspiring web developer, learning Java and DSA, open to internships" width="100%">
+</p>
 
-* * *
-## 🔗 Connect With Me
+<p align="center">
+  <a href="mailto:ankitasinghkushwah17@gmail.com">✉️ Email</a> &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/ankita212006?utm_source=share_via&utm_content=profile&utm_medium=member_android">🔗 LinkedIn</a> &nbsp; • &nbsp;
+  <a href="https://www.instagram.com/alaknanda_21/">📷 Instagram</a>
+</p>
 
-[Email](mailto:ankitasinghkushwah17@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ankita212006?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [Instagram](https://www.instagram.com/alaknanda_21/)
+---
 
-* * *
 ## 📜 About Me
 
-    name: nsfw-ankita
+```yaml
+name: nsfw-ankita
+education:
+  degree: B.Tech in Computer Science and Engineering
+  institution: Oriental Group of Colleges
+  expected_graduation: 2028
+```
 
-    education:
-      degree: B.Tech in Computer Science and Engineering
-      institution: Oriental Group of Colleges
-      expected graduation: 2028
+---
 
-* * *
 ## 🎯 Currently
 
-    Learning: Java and Data Structures & Algorithms
-    Interest: Aspiring Web Developer
+```text
+Learning:  Java + Data Structures & Algorithms
+Interest:  Aspiring Web Developer
+```
 
-* * *
+---
+
 ## 🎯 Open to Opportunities
 
-    Internships
+```text
+Internships
+```
 
-* * *
+---
 
-_{💻 Built by nsfw-ankita}_
+<p align="center"><sub>⌜ Built by nsfw-ankita ⌟</sub></p>
